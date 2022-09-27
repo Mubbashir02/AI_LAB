@@ -1,0 +1,5 @@
+0:{'Name': 'mubbahsir', 'Username': 'mubbashir shakeel', 'DegreeProgram': 'bscs', 'Age': 19, 'Contact': 315218630, 'Percentage': 75, 'Gender': 'male', 'ispassed': True},
+1:{'Name': 'Haris', 'Username': 'Sohail', 'DegreeProgram': 'bsse', 'Age': 26, 'Contact': 32531566, 'Percentage': 45, 'Gender': 'male', 'ispassed': True},
+2:{'Name': 'Anusha', 'Username': 'Anusha ', 'DegreeProgram': 'bsse', 'Age': 65, 'Contact': 3145645, 'Percentage': 56, 'Gender': 'female', 'ispassed': True},
+3:{'Name': 'shahrukh', 'Username': 'shahrukh sohail', 'DegreeProgram': 'bscs', 'Age': 36, 'Contact': 31325165, 'Percentage': 58, 'Gender': 'male', 'ispassed': True},
+4:{'Name': 'talha', 'Username': 'talha imran', 'DegreeProgram': 'bsse', 'Age': 63, 'Contact': 31561651, 'Percentage': 85, 'Gender': 'male', 'ispassed': True},

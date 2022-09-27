@@ -1,0 +1,16 @@
+Question no 01 and Only 01.
+
+Write a function in which you ask for the following details from the user.
+1. Name
+2. username
+3. Degree Program
+4. Age
+5. Contact
+6. Percentage
+7. Gender
+8. isPassed
+
+After receiving the values of the attributes you have to save the data in a dictionary name as UserData at index 0.
+repeat the process five times with an increment of index = index  +1.
+
+in the end, create a file named your id, save all the data in the file, and close it.
